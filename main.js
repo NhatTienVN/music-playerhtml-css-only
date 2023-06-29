@@ -23,7 +23,7 @@ const app = {
     isRepeat: false,
     songs: [
         {
-        name: "Click Pow Get Down",
+        name: "1",
         singer: "Raftaar x Fortnite",
         path: "./music/song1 (1).mp3",
         image: "img/img (1).jpg"
