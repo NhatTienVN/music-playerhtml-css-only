@@ -24,49 +24,49 @@ const app = {
     songs: [
         {
         name: "1",
-        singer: "Raftaar x Fortnite",
+        singer: "BLACKPINK",
         path: "./music/song1 (1).mp3",
         image: "img/img (1).jpg"
         },
         {
-        name: "Tu Phir Se Aana",
-        singer: "Raftaar x Salim Merchant x Karma",
+        name: "2",
+        singer: "BLACKPINK",
         path: "./music/song1 (2).mp3",
         image:
         "img/img (2).jpg"
         },
         {
-        name: "Naachne Ka Shaunq",
-        singer: "Raftaar x Brobha V",
+        name: "3",
+        singer: "BLACKPINK",
         path:
             "./music/song1 (3).mp3",
         image: "img/img (3).jpg"
         },
         {
-        name: "Mantoiyat",
-        singer: "Raftaar x Nawazuddin Siddiqui",
+        name: "4",
+        singer: "BLACKPINK",
         path: "./music/song1 (4).mp3",
         image:
             "img/img (4).jpg"
         },
         {
-        name: "Aage Chal",
-        singer: "Raftaar",
+        name: "5",
+        singer: "BLACKPINK",
         path: "./music/song1 (5).mp3",
         image:
             "img/img (5).jpg"
         },
         {
-        name: "Damn",
-        singer: "Raftaar x kr$na",
+        name: "6",
+        singer: "BLACKPINK",
         path:
             "./music/song1 (6).mp3",
         image:
             "img/img (6).jpg"
         },
         {
-        name: "Feeling You",
-        singer: "Raftaar x Harjas",
+        name: "7",
+        singer: "BLACKPINK",
         path: "./music/song1 (7).mp3",
         image:
             "img/img (8).jpg"
